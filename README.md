@@ -1,2 +1,2 @@
 # codecademy-cpp-course
-All projects created during the Ocdecademy C++ course
+All projects created during the Codecademy C++ course
